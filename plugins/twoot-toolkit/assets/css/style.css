@@ -1,0 +1,21 @@
+.twoot-toolkit-page h2.twoot-toolkit-page-title {
+	margin-bottom: 30px;
+}
+
+.twoot-toolkit-page h2.twoot-toolkit-page-title span {
+	color: #8AA33E;
+	background: #F1F1F1;
+	padding: 3px 10px;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-left: 15px;
+	border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.twoot-toolkit-page .form-table {
+	margin-bottom: 30px;
+}

@@ -1,0 +1,305 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-02 04:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: post-types/post_types.php:151
+msgid "Choose season"
+msgstr ""
+
+#: post-types/post_types.php:156
+msgid "Choose league"
+msgstr ""
+
+#: post-types/post_types.php:161
+msgid "Show statistic"
+msgstr ""
+
+#: post-types/post_types.php:164
+msgid "This Statistic will be shown on single player page"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:11
+msgctxt "post type general name"
+msgid "Donations"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:12
+msgctxt "post type singular name"
+msgid "Donation"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:13
+msgctxt "admin menu"
+msgid "Donations"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:14
+msgctxt "add new on admin bar"
+msgid "Donation"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:15
+msgctxt "Donation"
+msgid "Add New"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:16
+msgid "Add New Donation"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:17
+msgid "New Donation"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:18
+msgid "Edit Donation"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:19
+msgid "View Donation"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:20
+msgid "All Donations"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:21
+msgid "Search Donations"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:22
+msgid "Parent Donations:"
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:23
+msgid "No Donations found."
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:24
+msgid "No Donations found in Trash."
+msgstr ""
+
+#: post-types/post-types-registration/donations.php:30
+msgid "Donation Post type."
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:11
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:12
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:13
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:14
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:15
+msgctxt "Testimonial"
+msgid "Add New"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:16
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:17
+msgid "New Testimonial"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:18
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:19
+msgid "View Testimonial"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:20
+msgid "All Testimonials"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:21
+msgid "Search Testimonials"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:22
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:23
+msgid "No Testimonials found."
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:24
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: post-types/post-types-registration/testimonials.php:30
+msgid "Testimonial Post type."
+msgstr ""
+
+#: post-types/post-types-registration/media.php:11
+msgctxt "post type general name"
+msgid "Media Galleries"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:12
+msgctxt "post type singular name"
+msgid "Media Gallery"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:13
+msgctxt "admin menu"
+msgid "Media Galleries"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:14
+msgctxt "add new on admin bar"
+msgid "Media Gallery"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:15
+msgctxt "Media Gallery"
+msgid "Add New"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:16
+msgid "Add New Media Gallery"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:17
+msgid "New Media Gallery"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:18
+msgid "Edit Media Gallery"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:19
+msgid "View Media Gallery"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:20
+msgid "All Media Galleries"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:21
+msgid "Search Media Galleries"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:22
+msgid "Parent Media Galleries:"
+msgstr ""
+
+#: post-types/post-types-registration/media.php:23
+msgid "No Media Galleries found."
+msgstr ""
+
+#: post-types/post-types-registration/media.php:24
+msgid "No Media Galleries found in Trash."
+msgstr ""
+
+#: post-types/post-types-registration/media.php:30
+msgid "Media Gallery post type."
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:11
+msgctxt "post type general name"
+msgid "Sidebars"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:12
+msgctxt "post type singular name"
+msgid "Sidebar"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:13
+msgctxt "admin menu"
+msgid "Sidebars"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:14
+msgctxt "add new on admin bar"
+msgid "Sidebar"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:15
+msgctxt "Sidebar"
+msgid "Add New"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:16
+msgid "Add New Sidebar"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:17
+msgid "New Sidebar"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:18
+msgid "Edit Sidebar"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:19
+msgid "View Sidebar"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:20
+msgid "All Sidebars"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:21
+msgid "Search Sidebars"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:22
+msgid "Parent Sidebars:"
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:23
+msgid "No Sidebars found."
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:24
+msgid "No Sidebars found in Trash."
+msgstr ""
+
+#: post-types/post-types-registration/vc_sidebar.php:30
+msgid "Sidebar Post type."
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "STM Configurations"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Stylemix Themes"
+msgstr ""

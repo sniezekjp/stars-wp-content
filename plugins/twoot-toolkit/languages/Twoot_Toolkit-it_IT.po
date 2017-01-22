@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme ToolKit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-31 10:08+0800\n"
+"PO-Revision-Date: 2013-08-31 10:11+0800\n"
+"Last-Translator: MattMao <tomattmao@gmail.com>\n"
+"Language-Team: ThemeWoot <themewoot@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;esc_attr_e\n"
+"X-Poedit-Basepath: D:/xampp/htdocs/website/twoot_wordpress/wp-content/"
+"plugins/twoot-toolkit\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: twoot-toolkit-page.php:86
+msgid "Version: "
+msgstr ""
+
+#: twoot-toolkit-page.php:143
+msgid ""
+"<p>From March 2013 Twitter requires authentication to access your tweets. "
+"Here are fields you need to fill if you want to use Twitter Widgets and "
+"Twitter Slider. <br /><br />\n"
+"\t\t 1). Login the site: <a href=\"https://dev.twitter.com\" target=\"_blank"
+"\">https://dev.twitter.com</a><br />\n"
+"\t\t 2). Go to: Your Accont => My applications => Create a new application. "
+"<br />\n"
+"\t\t 3). Go to the Application => Details => Create my access token. <br />\n"
+"\t\t 4). Go to the Application => OAuth Tool => OAuth settings.<br /><br /></"
+"p>"
+msgstr ""
+
+#: twoot-toolkit-page.php:288
+msgid ""
+"Fill fields below to get notification about new version of theme. To get "
+"your API key go to ThemeForest - your profile -> Settings -> Api Keys and "
+"Generate API Key."
+msgstr ""
+
+#: classes/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: classes/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: classes/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: classes/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: classes/class-flickr-handler.php:138
+msgid ""
+"Oops, our Flickr feed is unavailable at the moment, please try to refresh "
+"the page."
+msgstr ""
+
+#: classes/class-flickr-handler.php:138
+msgid "Check our images on Flickr!"
+msgstr ""
+
+#: post-types/post-types.php:51
+msgid "Portfolios"
+msgstr ""
+
+#: post-types/post-types.php:52
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: post-types/post-types.php:53
+msgid "All Portfolios"
+msgstr ""
+
+#: post-types/post-types.php:54
+msgid "View Portfolio"
+msgstr ""
+
+#: post-types/post-types.php:55
+msgid "Add New Portfolio"
+msgstr ""
+
+#: post-types/post-types.php:56
+msgid "New Portfolio"
+msgstr ""
+
+#: post-types/post-types.php:57
+msgid "Edit Portfolio"
+msgstr ""
+
+#: post-types/post-types.php:58
+msgid "Update Portfolio"
+msgstr ""
+
+#: post-types/post-types.php:59
+msgid "Search portfolios"
+msgstr ""
+
+#: post-types/post-types.php:60
+msgid "No portfolios found"
+msgstr ""
+
+#: post-types/post-types.php:61
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: post-types/post-types.php:65
+msgid "portfolio"
+msgstr ""
+
+#: post-types/post-types.php:66
+msgid "Portfolio information pages"
+msgstr ""
+
+#: post-types/post-types.php:89 post-types/post-types.php:91
+msgid "Portfolio Categories"
+msgstr ""
+
+#: post-types/post-types.php:92
+msgid "Portfolio Category"
+msgstr ""
+
+#: post-types/post-types.php:93
+msgid "Categories"
+msgstr ""
+
+#: post-types/post-types.php:94
+msgid "Search Categories"
+msgstr ""
+
+#: post-types/post-types.php:95
+msgid "All Categories"
+msgstr ""
+
+#: post-types/post-types.php:96
+msgid "Parent Category"
+msgstr ""
+
+#: post-types/post-types.php:97
+msgid "Parent Category:"
+msgstr ""
+
+#: post-types/post-types.php:98
+msgid "Edit Category"
+msgstr ""
+
+#: post-types/post-types.php:99
+msgid "Update Category"
+msgstr ""
+
+#: post-types/post-types.php:100
+msgid "Add New Category"
+msgstr ""
+
+#: post-types/post-types.php:101
+msgid "New Category Name"
+msgstr ""
+
+#: post-types/post-types.php:109 post-types/post-types.php:111
+msgid "Portfolio Tags"
+msgstr ""
+
+#: post-types/post-types.php:112
+msgid "Portfolio Tag"
+msgstr ""
+
+#: post-types/post-types.php:113
+msgid "Tags"
+msgstr ""
+
+#: post-types/post-types.php:114
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: post-types/post-types.php:115
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: post-types/post-types.php:116
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: post-types/post-types.php:117
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: post-types/post-types.php:118
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: post-types/post-types.php:119
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: post-types/post-types.php:120
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: post-types/post-types.php:121
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: post-types/post-types.php:140
+msgid "FAQs"
+msgstr ""
+
+#: post-types/post-types.php:141
+msgid "Parent FAQ:"
+msgstr ""
+
+#: post-types/post-types.php:142
+msgid "All FAQs"
+msgstr ""
+
+#: post-types/post-types.php:143
+msgid "View FAQ"
+msgstr ""
+
+#: post-types/post-types.php:144
+msgid "Add New FAQ"
+msgstr ""
+
+#: post-types/post-types.php:145
+msgid "New FAQ"
+msgstr ""
+
+#: post-types/post-types.php:146
+msgid "Edit FAQ"
+msgstr ""
+
+#: post-types/post-types.php:147
+msgid "Update FAQ"
+msgstr ""
+
+#: post-types/post-types.php:148
+msgid "Search FAQs"
+msgstr ""
+
+#: post-types/post-types.php:149
+msgid "No FAQs found"
+msgstr ""
+
+#: post-types/post-types.php:150
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: post-types/post-types.php:209
+msgid "Bx Sliders"
+msgstr ""
+
+#: post-types/post-types.php:210
+msgid "Parent Bx Slider:"
+msgstr ""
+
+#: post-types/post-types.php:211
+msgid "All Bx Sliders"
+msgstr ""
+
+#: post-types/post-types.php:212
+msgid "View Bx Slider"
+msgstr ""
+
+#: post-types/post-types.php:213
+msgid "Add New Bx Slider"
+msgstr ""
+
+#: post-types/post-types.php:214
+msgid "New Bx Slider"
+msgstr ""
+
+#: post-types/post-types.php:215
+msgid "Edit Bx Slider"
+msgstr ""
+
+#: post-types/post-types.php:216
+msgid "Update Bx Slider"
+msgstr ""
+
+#: post-types/post-types.php:217
+msgid "Search Bx Sliders"
+msgstr ""
+
+#: post-types/post-types.php:218
+msgid "No bx sliders found"
+msgstr ""
+
+#: post-types/post-types.php:219
+msgid "No bx sliders found in Trash"
+msgstr ""
+
+#: post-types/post-types.php:279
+msgid "Content Blocks"
+msgstr ""
+
+#: post-types/post-types.php:280
+msgid "Parent Content Block:"
+msgstr ""
+
+#: post-types/post-types.php:281
+msgid "All Content Blocks"
+msgstr ""
+
+#: post-types/post-types.php:282
+msgid "View Content Block"
+msgstr ""
+
+#: post-types/post-types.php:283
+msgid "Add New Content Block"
+msgstr ""
+
+#: post-types/post-types.php:284
+msgid "New Content Block"
+msgstr ""
+
+#: post-types/post-types.php:285
+msgid "Edit Content Block"
+msgstr ""
+
+#: post-types/post-types.php:286
+msgid "Update Content Block"
+msgstr ""
+
+#: post-types/post-types.php:287
+msgid "Search Content Blocks"
+msgstr ""
+
+#: post-types/post-types.php:288
+msgid "No content block found"
+msgstr ""
+
+#: post-types/post-types.php:289
+msgid "No content block found in Trash"
+msgstr ""
+
+#: widgets/blog.php:26
+msgid "This widget will display a blog section."
+msgstr ""
+
+#: widgets/blog.php:27
+msgid "Twoot Blog Posts"
+msgstr ""
+
+#: widgets/blog.php:52 widgets/contact-details.php:52
+#: widgets/portfolio-tags.php:47 widgets/portfolio.php:52
+msgid "Title:"
+msgstr ""
+
+#: widgets/blog.php:57 widgets/portfolio.php:57
+msgid "Counts:"
+msgstr ""
+
+#: widgets/blog.php:62 widgets/portfolio.php:62
+msgid "Cats:"
+msgstr ""
+
+#: widgets/blog.php:64 widgets/portfolio.php:64
+msgid "Category IDs, separated by commas."
+msgstr ""
+
+#: widgets/blog.php:68 widgets/portfolio.php:68
+msgid "Posts:"
+msgstr ""
+
+#: widgets/blog.php:70 widgets/portfolio.php:70
+msgid "Post IDs, separated by commas."
+msgstr ""
+
+#: widgets/blog.php:74 widgets/portfolio-tags.php:57 widgets/portfolio.php:74
+msgid "Orderby:"
+msgstr ""
+
+#: widgets/blog.php:76 widgets/portfolio.php:76
+msgid "Date"
+msgstr ""
+
+#: widgets/blog.php:77 widgets/portfolio.php:77
+msgid "Comment"
+msgstr ""
+
+#: widgets/blog.php:78 widgets/portfolio.php:78
+msgid "Rand"
+msgstr ""
+
+#: widgets/blog.php:79 widgets/portfolio.php:79
+msgid "ID"
+msgstr ""
+
+#: widgets/blog.php:80 widgets/portfolio.php:80
+msgid "title"
+msgstr ""
+
+#: widgets/blog.php:85 widgets/portfolio-tags.php:65 widgets/portfolio.php:85
+msgid "Order:"
+msgstr ""
+
+#: widgets/blog.php:87 widgets/portfolio-tags.php:67 widgets/portfolio.php:87
+msgid "ASC"
+msgstr ""
+
+#: widgets/blog.php:88 widgets/portfolio-tags.php:68 widgets/portfolio.php:88
+msgid "DESC"
+msgstr ""
+
+#: widgets/comments.php:26
+msgid "This widget will display a comments section."
+msgstr ""
+
+#: widgets/comments.php:27
+msgid "Twoot Comments"
+msgstr ""
+
+#: widgets/contact-details.php:26
+msgid "This widget will display a contact details section."
+msgstr ""
+
+#: widgets/contact-details.php:27
+msgid "Twoot Contact Details"
+msgstr ""
+
+#: widgets/contact-details.php:56 widgets/contact-details.php:119
+msgid "Email:"
+msgstr ""
+
+#: widgets/contact-details.php:60 widgets/contact-details.php:112
+msgid "Phone:"
+msgstr ""
+
+#: widgets/contact-details.php:64 widgets/contact-details.php:126
+msgid "Facebook:"
+msgstr ""
+
+#: widgets/contact-details.php:68 widgets/contact-details.php:133
+msgid "Twitter:"
+msgstr ""
+
+#: widgets/contact-details.php:105
+msgid "Address:"
+msgstr ""
+
+#: widgets/contact-details.php:126 widgets/contact-details.php:133
+msgid "Follow US"
+msgstr ""
+
+#: widgets/dribbble.php:26
+msgid "This widget will display a dribbbles section."
+msgstr ""
+
+#: widgets/dribbble.php:27
+msgid "Twoot Dribbble"
+msgstr ""
+
+#: widgets/dribbble.php:116
+msgid ""
+"Oops, our dribbble feed is unavailable at the moment, please try to refresh "
+"the page."
+msgstr ""
+
+#: widgets/flickr.php:26
+msgid "This widget will display a flickr section."
+msgstr ""
+
+#: widgets/flickr.php:27
+msgid "Twoot Flickr"
+msgstr ""
+
+#: widgets/instagram.php:26
+msgid "This widget will display a instagrams section."
+msgstr ""
+
+#: widgets/instagram.php:27
+msgid "Twoot Instagram"
+msgstr ""
+
+#: widgets/instagram.php:118
+msgid ""
+"Oops, our instagram feed is unavailable at the moment, please try to refresh "
+"the page."
+msgstr ""
+
+#: widgets/portfolio-tags.php:25
+msgid "This widget will display a portfolio tag section."
+msgstr ""
+
+#: widgets/portfolio-tags.php:26
+msgid "Twoot Portfolio Tags"
+msgstr ""
+
+#: widgets/portfolio-tags.php:52
+msgid "Number:"
+msgstr ""
+
+#: widgets/portfolio-tags.php:59
+msgid "Name"
+msgstr ""
+
+#: widgets/portfolio-tags.php:60
+msgid "Count"
+msgstr ""
+
+#: widgets/portfolio-tags.php:69
+msgid "RAND"
+msgstr ""
+
+#: widgets/portfolio.php:26
+msgid "This widget will display a portfolio section."
+msgstr ""
+
+#: widgets/portfolio.php:27
+msgid "Twoot Portfolio Posts"
+msgstr ""
+
+#: widgets/social-icons.php:26
+msgid "This widget will display a social icons section."
+msgstr ""
+
+#: widgets/social-icons.php:27
+msgid "Twoot Social Icons"
+msgstr ""
+
+#: widgets/twitter.php:26
+msgid "This widget will display a twitters section."
+msgstr ""
+
+#: widgets/twitter.php:27
+msgid "Twoot Twitter"
+msgstr ""
+
+#: widgets/twitter.php:120 zilla-shortcodes/shortcodes/twitter-carousel.php:61
+msgid "Oops, our Twitter feed is unavailable at the moment."
+msgstr ""
+
+#: zilla-shortcodes/shortcodes/twitter-carousel.php:58
+msgid "Follow Us"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:13
+msgid "Button URL"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:14
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:18
+msgid "Button Style"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:19
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:33
+msgid "Button Size"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:34
+msgid "Select the button's size"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:43
+msgid "Button Type"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:44
+msgid "Select the button's type"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:52
+msgid "Button Target"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:53
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:62
+msgid "Button's Text"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:63
+msgid "Add the button's text"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:67
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:79
+msgid "Alert Style"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:80
+msgid "Select the alert's style, ie the alert colour"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:92
+msgid "Alert Text"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:93
+msgid "Add the alert's text"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:98
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:110
+msgid "Toggle Content Title"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:111
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:117
+msgid "Toggle Content"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:118
+msgid "Add the toggle content. Will accept HTML"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:122
+msgid "Toggle State"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:123
+msgid "Select the state of the toggle on page load"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:132
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:143
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:150
+msgid "Tab Title"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:151
+msgid "Title of the tab"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:156
+msgid "Tab Content"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:157
+msgid "Add the tabs content"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:161
+msgid "Add Tab"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:172
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:180
+msgid "Column Type"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:181
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:210
+msgid "Column Content"
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:211
+msgid "Add the column content."
+msgstr ""
+
+#: zilla-shortcodes/tinymce/config.php:215
+msgid "Add Column"
+msgstr ""

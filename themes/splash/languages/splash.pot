@@ -1,0 +1,2540 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: splash\n"
+"POT-Creation-Date: 2016-11-02 04:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: StylemixThemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: /Users/timco/Desktop\n"
+"X-Poedit-SearchPath-0: splash\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION"
+
+#: splash/404.php:7
+msgid "404"
+msgstr ""
+
+#: splash/404.php:8
+msgid "Page not found"
+msgstr ""
+
+#: splash/404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: splash/archive-donation.php:31 splash/index.php:35
+msgid "No Results"
+msgstr ""
+
+#: splash/comments.php:28
+msgid "Comment navigation"
+msgstr ""
+
+#: splash/comments.php:32
+msgid "Older Comments"
+msgstr ""
+
+#: splash/comments.php:35
+msgid "Newer Comments"
+msgstr ""
+
+#: splash/comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: splash/comments.php:54
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Logged in as %2$s</a> <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: splash/page.php:15 splash/partials/global/donation-content.php:64 
+#: splash/partials/global/post-content.php:59
+msgid "Pages:"
+msgstr ""
+
+#: splash/page.php:19 splash/partials/global/donation-content.php:68 
+#: splash/partials/global/post-content.php:63
+msgid "Page"
+msgstr ""
+
+#: splash/includes/custom.php:350
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: splash/includes/custom.php:386 
+#: splash/woocommerce/single-product-reviews.php:81 
+#: splash/woocommerce/cart/cart.php:34
+msgid "Name"
+msgstr ""
+
+#: splash/includes/custom.php:391
+msgid "E-mail"
+msgstr ""
+
+#: splash/includes/custom.php:396
+msgid "Website"
+msgstr ""
+
+#: splash/includes/custom.php:438 
+#: splash/includes/customizer/registration.php:630
+msgid "Raised"
+msgstr ""
+
+#: splash/includes/custom.php:439 
+#: splash/includes/customizer/registration.php:635
+msgid "Donors"
+msgstr ""
+
+#: splash/includes/custom.php:440 
+#: splash/includes/customizer/registration.php:640
+msgid "Goal"
+msgstr ""
+
+#: splash/includes/custom.php:441 
+#: splash/includes/customizer/registration.php:645
+msgid "$"
+msgstr ""
+
+#: splash/includes/custom.php:532
+msgid "New donation"
+msgstr ""
+
+#: splash/includes/custom.php:532
+msgid "New donation, please check it."
+msgstr ""
+
+#: splash/includes/custom.php:536
+msgid "Redirecting to Paypal."
+msgstr ""
+
+#: splash/includes/custom.php:657 splash/partials/global/title-box.php:86
+msgid "Search"
+msgstr ""
+
+#: splash/includes/setup.php:32
+msgid "Header menu"
+msgstr ""
+
+#: splash/includes/setup.php:33
+msgid "Bottom Widget menu"
+msgstr ""
+
+#: splash/includes/setup.php:34
+msgid "Sidebar menu"
+msgstr ""
+
+#: splash/includes/setup.php:38
+msgid "Primary Sidebar"
+msgstr ""
+
+#: splash/includes/setup.php:40
+msgid "Main sidebar that appears on the right or left."
+msgstr ""
+
+#: splash/includes/setup.php:48 splash/includes/customizer/registration.php:70
+msgid "Footer"
+msgstr ""
+
+#: splash/includes/setup.php:50
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: splash/includes/setup.php:58 splash/includes/customizer/registration.php:74 
+#: splash/includes/customizer/registration.php:773
+msgid "SportsPress"
+msgstr ""
+
+#: splash/includes/setup.php:60
+msgid "SportsPress Widgets Area"
+msgstr ""
+
+#: splash/includes/setup.php:69 
+#: splash/includes/customizer/registration.php:533 
+#: splash/includes/customizer/registration.php:836
+msgid "Shop"
+msgstr ""
+
+#: splash/includes/setup.php:71
+msgid "Woocommerce pages sidebar"
+msgstr ""
+
+#: splash/includes/visual_composer.php:77 splash/sportspress/event-list.php:98
+msgid "Date"
+msgstr ""
+
+#: splash/includes/visual_composer.php:78
+msgid "ID"
+msgstr ""
+
+#: splash/includes/visual_composer.php:79
+msgid "Author"
+msgstr ""
+
+#: splash/includes/visual_composer.php:80 
+#: splash/includes/visual_composer.php:314 
+#: splash/includes/visual_composer.php:369 
+#: splash/includes/visual_composer.php:419 
+#: splash/includes/visual_composer.php:455 
+#: splash/includes/visual_composer.php:482 
+#: splash/includes/visual_composer.php:509 
+#: splash/includes/visual_composer.php:552 
+#: splash/includes/visual_composer.php:595 
+#: splash/includes/visual_composer.php:726 
+#: splash/includes/visual_composer.php:778 
+#: splash/includes/visual_composer.php:823 
+#: splash/includes/visual_composer.php:968 
+#: splash/includes/visual_composer.php:1090 
+#: splash/includes/visual_composer.php:1110
+msgid "Title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:81
+msgid "Modified"
+msgstr ""
+
+#: splash/includes/visual_composer.php:82
+msgid "Random"
+msgstr ""
+
+#: splash/includes/visual_composer.php:83
+msgid "Comment count"
+msgstr ""
+
+#: splash/includes/visual_composer.php:84
+msgid "Menu order"
+msgstr ""
+
+#: splash/includes/visual_composer.php:89
+msgid "Descending"
+msgstr ""
+
+#: splash/includes/visual_composer.php:90
+msgid "Ascending"
+msgstr ""
+
+#: splash/includes/visual_composer.php:95 
+#: splash/partials/global/media-archive.php:110 
+#: splash/partials/global/sportspress/player-media.php:95 
+#: splash/vc_templates/stm_media_tabs.php:100
+msgid "All"
+msgstr ""
+
+#: splash/includes/visual_composer.php:122
+msgid "Empty"
+msgstr ""
+
+#: splash/includes/visual_composer.php:171
+msgid "Icon list"
+msgstr ""
+
+#: splash/includes/visual_composer.php:174 
+#: splash/includes/visual_composer.php:205 
+#: splash/includes/visual_composer.php:249 
+#: splash/includes/visual_composer.php:308 
+#: splash/includes/visual_composer.php:363 
+#: splash/includes/visual_composer.php:413 
+#: splash/includes/visual_composer.php:449 
+#: splash/includes/visual_composer.php:476 
+#: splash/includes/visual_composer.php:503 
+#: splash/includes/visual_composer.php:546 
+#: splash/includes/visual_composer.php:589 
+#: splash/includes/visual_composer.php:689 
+#: splash/includes/visual_composer.php:722 
+#: splash/includes/visual_composer.php:744 
+#: splash/includes/visual_composer.php:774 
+#: splash/includes/visual_composer.php:799 
+#: splash/includes/visual_composer.php:819 
+#: splash/includes/visual_composer.php:900 
+#: splash/includes/visual_composer.php:959 
+#: splash/includes/visual_composer.php:1011 
+#: splash/includes/visual_composer.php:1078 
+#: splash/includes/visual_composer.php:1130
+msgid "STM"
+msgstr ""
+
+#: splash/includes/visual_composer.php:178
+msgid "List type"
+msgstr ""
+
+#: splash/includes/visual_composer.php:181
+msgid "Marked"
+msgstr ""
+
+#: splash/includes/visual_composer.php:182
+msgid "Numeric"
+msgstr ""
+
+#: splash/includes/visual_composer.php:183
+msgid "Font icon"
+msgstr ""
+
+#: splash/includes/visual_composer.php:189
+msgid "Icon"
+msgstr ""
+
+#: splash/includes/visual_composer.php:195
+msgid "Text"
+msgstr ""
+
+#: splash/includes/visual_composer.php:202
+msgid "Button"
+msgstr ""
+
+#: splash/includes/visual_composer.php:209 
+#: splash/includes/visual_composer.php:263 
+#: splash/includes/visual_composer.php:950
+msgid "Link"
+msgstr ""
+
+#: splash/includes/visual_composer.php:214 
+#: splash/includes/visual_composer.php:269 
+#: splash/includes/visual_composer.php:861
+msgid "Button type"
+msgstr ""
+
+#: splash/includes/visual_composer.php:217 
+#: splash/includes/visual_composer.php:272 
+#: splash/includes/visual_composer.php:864
+msgid "Primary"
+msgstr ""
+
+#: splash/includes/visual_composer.php:218 
+#: splash/includes/visual_composer.php:273 
+#: splash/includes/visual_composer.php:865
+msgid "Secondary"
+msgstr ""
+
+#: splash/includes/visual_composer.php:223 
+#: splash/includes/visual_composer.php:279 
+#: splash/includes/visual_composer.php:871
+msgid "Button size"
+msgstr ""
+
+#: splash/includes/visual_composer.php:226 
+#: splash/includes/visual_composer.php:282 
+#: splash/includes/visual_composer.php:874
+msgid "Normal"
+msgstr ""
+
+#: splash/includes/visual_composer.php:227 
+#: splash/includes/visual_composer.php:283 
+#: splash/includes/visual_composer.php:875 
+#: splash/includes/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr ""
+
+#: splash/includes/visual_composer.php:228 
+#: splash/includes/visual_composer.php:284 
+#: splash/includes/visual_composer.php:876
+msgid "Large"
+msgstr ""
+
+#: splash/includes/visual_composer.php:233 
+#: splash/includes/visual_composer.php:290 
+#: splash/includes/visual_composer.php:882
+msgid "Button color style"
+msgstr ""
+
+#: splash/includes/visual_composer.php:236 
+#: splash/includes/visual_composer.php:293 
+#: splash/includes/visual_composer.php:885
+msgid "Style 1"
+msgstr ""
+
+#: splash/includes/visual_composer.php:237 
+#: splash/includes/visual_composer.php:294 
+#: splash/includes/visual_composer.php:886
+msgid "Style 2"
+msgstr ""
+
+#: splash/includes/visual_composer.php:238 
+#: splash/includes/visual_composer.php:295 
+#: splash/includes/visual_composer.php:887
+msgid "Style 3"
+msgstr ""
+
+#: splash/includes/visual_composer.php:239 
+#: splash/includes/visual_composer.php:296 
+#: splash/includes/visual_composer.php:888
+msgid "Style 4"
+msgstr ""
+
+#: splash/includes/visual_composer.php:246
+msgid "Call to action"
+msgstr ""
+
+#: splash/includes/visual_composer.php:253
+msgid "Call to action Text"
+msgstr ""
+
+#: splash/includes/visual_composer.php:258
+msgid "Text color"
+msgstr ""
+
+#: splash/includes/visual_composer.php:275 
+#: splash/includes/visual_composer.php:286 
+#: splash/includes/visual_composer.php:298 
+#: splash/includes/visual_composer.php:867 
+#: splash/includes/visual_composer.php:878 
+#: splash/includes/visual_composer.php:890
+msgid "Button style"
+msgstr ""
+
+#: splash/includes/visual_composer.php:304
+msgid "Next Matches"
+msgstr ""
+
+#: splash/includes/visual_composer.php:316
+msgid "Next Match"
+msgstr ""
+
+#: splash/includes/visual_composer.php:317 
+#: splash/includes/visual_composer.php:372 
+#: splash/includes/visual_composer.php:422 
+#: splash/includes/visual_composer.php:458 
+#: splash/includes/visual_composer.php:485 
+#: splash/includes/visual_composer.php:512 
+#: splash/includes/visual_composer.php:555 
+#: splash/includes/visual_composer.php:598
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: splash/includes/visual_composer.php:321 
+#: splash/includes/visual_composer.php:610
+msgid "Background image"
+msgstr ""
+
+#: splash/includes/visual_composer.php:327 
+#: splash/includes/visual_composer.php:377
+msgid "Show"
+msgstr ""
+
+#: splash/includes/visual_composer.php:328 
+#: splash/includes/visual_composer.php:351 
+#: splash/includes/visual_composer.php:378 
+#: splash/includes/visual_composer.php:401
+msgid "Fixtures by only this team will be displayed"
+msgstr ""
+
+#: splash/includes/visual_composer.php:331 
+#: splash/includes/visual_composer.php:381
+msgid "Certain number"
+msgstr ""
+
+#: splash/includes/visual_composer.php:332 
+#: splash/includes/visual_composer.php:382
+msgid "All games"
+msgstr ""
+
+#: splash/includes/visual_composer.php:338 
+#: splash/includes/visual_composer.php:388 
+#: splash/includes/visual_composer.php:709
+msgid "Count"
+msgstr ""
+
+#: splash/includes/visual_composer.php:350 
+#: splash/includes/visual_composer.php:400
+msgid "Pick a team"
+msgstr ""
+
+#: splash/includes/visual_composer.php:359 
+#: splash/includes/visual_composer.php:371
+msgid "Latest Results"
+msgstr ""
+
+#: splash/includes/visual_composer.php:409
+msgid "Players Carousel"
+msgstr ""
+
+#: splash/includes/visual_composer.php:421 
+#: splash/includes/visual_composer.php:664
+msgid "Players"
+msgstr ""
+
+#: splash/includes/visual_composer.php:426
+msgid "Player Lists"
+msgstr ""
+
+#: splash/includes/visual_composer.php:434
+msgid "Enable carousel"
+msgstr ""
+
+#: splash/includes/visual_composer.php:437
+msgid "Yes"
+msgstr ""
+
+#: splash/includes/visual_composer.php:438
+msgid "No"
+msgstr ""
+
+#: splash/includes/visual_composer.php:445
+msgid "Reviews Carousel"
+msgstr ""
+
+#: splash/includes/visual_composer.php:457 
+#: splash/woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: splash/includes/visual_composer.php:464
+msgid "Number of review to display"
+msgstr ""
+
+#: splash/includes/visual_composer.php:466 
+#: splash/includes/visual_composer.php:535 
+#: splash/includes/widgets/recent_posts.php:85
+msgid "3"
+msgstr ""
+
+#: splash/includes/visual_composer.php:472
+msgid "Media tabs"
+msgstr ""
+
+#: splash/includes/visual_composer.php:484 
+#: splash/includes/customizer/registration.php:751 
+#: splash/partials/global/media-archive.php:104
+msgid "Media"
+msgstr ""
+
+#: splash/includes/visual_composer.php:491
+msgid "Number of medias to display (each tab)"
+msgstr ""
+
+#: splash/includes/visual_composer.php:493 
+#: splash/includes/visual_composer.php:578
+msgid "6"
+msgstr ""
+
+#: splash/includes/visual_composer.php:499
+msgid "News tabs"
+msgstr ""
+
+#: splash/includes/visual_composer.php:511
+msgid "News"
+msgstr ""
+
+#: splash/includes/visual_composer.php:516 
+#: splash/includes/visual_composer.php:559
+msgid "Include Category"
+msgstr ""
+
+#: splash/includes/visual_composer.php:518 
+#: splash/includes/visual_composer.php:561
+msgid "Add Category. If not added show all category"
+msgstr ""
+
+#: splash/includes/visual_composer.php:533
+msgid "Number of news to display (each tab)"
+msgstr ""
+
+#: splash/includes/visual_composer.php:541
+msgid "Products carousel"
+msgstr ""
+
+#: splash/includes/visual_composer.php:544
+msgid "Carousel of recent products"
+msgstr ""
+
+#: splash/includes/visual_composer.php:554
+msgid "Official Store"
+msgstr ""
+
+#: splash/includes/visual_composer.php:576
+msgid "Number of products to display"
+msgstr ""
+
+#: splash/includes/visual_composer.php:584
+msgid "Player statistics"
+msgstr ""
+
+#: splash/includes/visual_composer.php:587
+msgid "Carousel of players"
+msgstr ""
+
+#: splash/includes/visual_composer.php:597
+msgid "Preseason Stats"
+msgstr ""
+
+#: splash/includes/visual_composer.php:604
+msgid "Sub Title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:606
+msgid "Preseason Leaders"
+msgstr ""
+
+#: splash/includes/visual_composer.php:616
+msgid "Choose League"
+msgstr ""
+
+#: splash/includes/visual_composer.php:623
+msgid "Choose Season"
+msgstr ""
+
+#: splash/includes/visual_composer.php:629
+msgid "Items"
+msgstr ""
+
+#: splash/includes/visual_composer.php:633
+msgid "Choose Statistic"
+msgstr ""
+
+#: splash/includes/visual_composer.php:637
+msgid "Statistic Title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:641
+msgid "Choose Players"
+msgstr ""
+
+#: splash/includes/visual_composer.php:649
+msgid "Choose statistic to show"
+msgstr ""
+
+#: splash/includes/visual_composer.php:658
+msgid "Statistic title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:660
+msgid ""
+"Enter text which will be used as widget title. Leave blank, title will be "
+"generated from statistic title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:666
+msgid "Choose players to show"
+msgstr ""
+
+#: splash/includes/visual_composer.php:683
+msgid "League Tables"
+msgstr ""
+
+#: splash/includes/visual_composer.php:684
+msgid "Place League Table"
+msgstr ""
+
+#: splash/includes/visual_composer.php:694
+msgid "Select Table"
+msgstr ""
+
+#: splash/includes/visual_composer.php:701
+msgid "Table title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:703
+msgid "Points Table"
+msgstr ""
+
+#: splash/includes/visual_composer.php:718
+msgid "Trophies"
+msgstr ""
+
+#: splash/includes/visual_composer.php:728
+msgid "Awards"
+msgstr ""
+
+#: splash/includes/visual_composer.php:732 
+#: splash/includes/visual_composer.php:1068 
+#: splash/includes/visual_composer.php:1134
+msgid "Css"
+msgstr ""
+
+#: splash/includes/visual_composer.php:734 
+#: splash/includes/visual_composer.php:1070 
+#: splash/includes/visual_composer.php:1136
+msgid "Design options"
+msgstr ""
+
+#: splash/includes/visual_composer.php:741
+msgid "STM Trophy"
+msgstr ""
+
+#: splash/includes/visual_composer.php:748 
+#: splash/includes/visual_composer.php:963
+msgid "Image"
+msgstr ""
+
+#: splash/includes/visual_composer.php:753 
+#: splash/includes/visual_composer.php:788 
+#: splash/includes/visual_composer.php:808 
+#: splash/includes/visual_composer.php:833 
+#: splash/includes/visual_composer.php:998
+msgid "Image size"
+msgstr ""
+
+#: splash/includes/visual_composer.php:756 
+#: splash/includes/visual_composer.php:791 
+#: splash/includes/visual_composer.php:811 
+#: splash/includes/visual_composer.php:836 
+#: splash/includes/visual_composer.php:1001
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: splash/includes/visual_composer.php:760 
+#: splash/includes/visual_composer.php:1086 
+#: splash/includes/visual_composer.php:1103
+msgid "Year"
+msgstr ""
+
+#: splash/includes/visual_composer.php:765
+msgid "Trophy title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:772
+msgid "Carousel"
+msgstr ""
+
+#: splash/includes/visual_composer.php:783 
+#: splash/includes/visual_composer.php:803 
+#: splash/includes/visual_composer.php:828 
+#: splash/partials/global/media-archive.php:116 
+#: splash/partials/global/sportspress/player-media.php:101 
+#: splash/vc_templates/stm_media_tabs.php:106
+msgid "Images"
+msgstr ""
+
+#: splash/includes/visual_composer.php:797
+msgid "Slider"
+msgstr ""
+
+#: splash/includes/visual_composer.php:817
+msgid "Images Grid"
+msgstr ""
+
+#: splash/includes/visual_composer.php:841
+msgid "Columns"
+msgstr ""
+
+#: splash/includes/visual_composer.php:853
+msgid "Load by"
+msgstr ""
+
+#: splash/includes/visual_composer.php:856
+msgid "Images to show by. Default: 12"
+msgstr ""
+
+#: splash/includes/visual_composer.php:896
+msgid "Price plan"
+msgstr ""
+
+#: splash/includes/visual_composer.php:906
+msgid "Plan title"
+msgstr ""
+
+#: splash/includes/visual_composer.php:912
+msgid "Plan badge"
+msgstr ""
+
+#: splash/includes/visual_composer.php:919
+msgid "Plan price"
+msgstr ""
+
+#: splash/includes/visual_composer.php:925
+msgid "Plan price label"
+msgstr ""
+
+#: splash/includes/visual_composer.php:930
+msgid "Features"
+msgstr ""
+
+#: splash/includes/visual_composer.php:934 
+#: splash/includes/visual_composer.php:943
+msgid "Feature"
+msgstr ""
+
+#: splash/includes/visual_composer.php:957
+msgid "Contact Info"
+msgstr ""
+
+#: splash/includes/visual_composer.php:973
+msgid "Subtitle"
+msgstr ""
+
+#: splash/includes/visual_composer.php:978 splash/includes/woocommerce.php:63 
+#: splash/vc_templates/stm_contact_info.php:33
+msgid "Phone"
+msgstr ""
+
+#: splash/includes/visual_composer.php:983 
+#: splash/vc_templates/stm_contact_info.php:41
+msgid "Fax"
+msgstr ""
+
+#: splash/includes/visual_composer.php:988 splash/includes/woocommerce.php:62 
+#: splash/vc_templates/stm_contact_info.php:49 
+#: splash/woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: splash/includes/visual_composer.php:993
+msgid "URL"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1008
+msgid "Google Map"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1015
+msgid "Marker"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1020
+msgid "Map Width"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1023
+msgid "Enter map width in px or %"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1027
+msgid "Map Height"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1030
+msgid "Enter map height in px"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1034
+msgid "Latitude"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1039
+msgid "Longitude"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1044
+msgid "Map Zoom"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1050
+msgid "InfoWindow text"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1057
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1062
+msgid "Extra class name"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1064
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: splash/includes/visual_composer.php:1076
+msgid "Team History"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1082
+msgid "Year description"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1094 
+#: splash/includes/visual_composer.php:1117
+msgid "Content"
+msgstr ""
+
+#: splash/includes/visual_composer.php:1126
+msgid "Media Archive"
+msgstr ""
+
+#: splash/includes/woocommerce.php:59 splash/includes/woocommerce.php:68
+msgid "First Name"
+msgstr ""
+
+#: splash/includes/woocommerce.php:60 splash/includes/woocommerce.php:69
+msgid "Last Name"
+msgstr ""
+
+#: splash/includes/woocommerce.php:61 splash/includes/woocommerce.php:70
+msgid "Company Name"
+msgstr ""
+
+#: splash/includes/woocommerce.php:64 splash/includes/woocommerce.php:71
+msgid "Town/City"
+msgstr ""
+
+#: splash/includes/woocommerce.php:65 splash/includes/woocommerce.php:72
+msgid "State/Country"
+msgstr ""
+
+#: splash/includes/woocommerce.php:66 splash/includes/woocommerce.php:73
+msgid "Postcode/ZIP"
+msgstr ""
+
+#: splash/includes/customizer/google-fonts.php:7 
+#: splash/includes/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:7
+msgid "Facebook"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:8
+msgid "Twitter"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:9
+msgid "VK"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:10
+msgid "Instagram"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:11
+msgid "Behance"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:12
+msgid "Dribbble"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:13
+msgid "Flickr"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:14
+msgid "Git"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:15
+msgid "Linkedin"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:16
+msgid "Pinterest"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:17
+msgid "Yahoo"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:18
+msgid "Delicious"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:19
+msgid "Dropbox"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:20
+msgid "Reddit"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:21
+msgid "Soundcloud"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:22
+msgid "Google"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:23
+msgid "Google +"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:24
+msgid "Skype"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:25
+msgid "Youtube"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:26
+msgid "Youtube Play"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:27
+msgid "Tumblr"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:28
+msgid "Whatsapp"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:56 
+#: splash/includes/customizer/registration.php:454 
+#: splash/includes/customizer/registration.php:545 
+#: splash/includes/customizer/registration.php:597 
+#: splash/includes/customizer/registration.php:619 
+#: splash/includes/customizer/registration.php:742 
+#: splash/includes/customizer/registration.php:764 
+#: splash/includes/customizer/registration.php:849
+msgid "Left"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:57 
+#: splash/includes/customizer/registration.php:455 
+#: splash/includes/customizer/registration.php:546 
+#: splash/includes/customizer/registration.php:598 
+#: splash/includes/customizer/registration.php:620 
+#: splash/includes/customizer/registration.php:743 
+#: splash/includes/customizer/registration.php:765 
+#: splash/includes/customizer/registration.php:850
+msgid "Right"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:62
+msgid "Site Settings"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:66 
+#: splash/includes/customizer/registration.php:399
+msgid "Header"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:80
+msgid "Logo &amp; Title"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:85 
+#: splash/partials/header/header-default.php:56 
+#: splash/partials/header/header-default.php:102
+msgid "Logo"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:89
+msgid "Logo Width (px)"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:96
+msgid "Text Logo Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:105
+msgid "Text Logo Color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:115
+msgid "One Click update"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:120
+msgid "Envato Username"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:123
+msgid ""
+"Enter here your ThemeForest (or Envato) username account (i.e. "
+"Stylemixthemes)."
+msgstr ""
+
+#: splash/includes/customizer/registration.php:126
+msgid "Envato API Key"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:129
+msgid ""
+"Enter here the secret api key you have created on ThemeForest. You can "
+"create a new one in the Settings > API Keys section of your profile."
+msgstr ""
+
+#: splash/includes/customizer/registration.php:135 
+#: splash/includes/customizer/registration.php:146
+msgid "Style"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:140
+msgid "Site background color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:149
+msgid "Default"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:150
+msgid "Blue"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:151
+msgid "Blue Violet"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:152
+msgid "Choco"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:153
+msgid "Gold"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:154
+msgid "Green"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:155
+msgid "Orange"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:156
+msgid "Sky blue"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:157
+msgid "Turquose"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:158
+msgid "Violet Red"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:159
+msgid "Custom Color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:164
+msgid "Custom Base Color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:169
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:174 
+#: splash/partials/global/frontend_customizer.php:32
+msgid "Background Image"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:185
+msgid "Custom Bg Image"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:189
+msgid "Custom Bg Image Pattern"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:193
+msgid "Frontend Customizer"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:198
+msgid "Site smooth scroll"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:207
+msgid "Typography"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:213
+msgid "Body Font Family"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:218
+msgid "Body Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:228
+msgid "Body Line Height"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:236
+msgid "Body Font Color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:249
+msgid "Headings Font Family"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:254
+msgid "Headings Color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:261
+msgid "H1 Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:271
+msgid "H2 Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:281
+msgid "H3 Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:291
+msgid "H4 Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:301
+msgid "H5 Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:311
+msgid "H6 Font Size"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:324
+msgid "Static Front Page"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:330
+msgid "Top bar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:334
+msgid "Top bar Enabled"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:340
+msgid "Top bar Background Color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:347
+msgid "Top bar Text Color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:354
+msgid "Top bar enable news ticker"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:360
+msgid "Ticker title"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:362 
+#: splash/partials/header/top-bar-ticker.php:16
+msgid "Breaking news"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:365
+msgid "Top bar enable socials"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:371
+msgid "Top bar enable WPML switcher"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:377
+msgid "Top bar enable Cart woocommerce"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:387
+msgid "Top Bar Socials"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:391
+msgid "Top bar Socials"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:403
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:408
+msgid "Header Background"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:412
+msgid "Menu margin top (px)"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:416
+msgid "Logo margin top (px)"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:421
+msgid "Enable Search"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:430
+msgid "Main settings"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:434
+msgid "Footer Image"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:438
+msgid "Footer Call to action text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:442
+msgid "Footer Call to action link text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:446
+msgid "Footer Call to action link"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:450
+msgid "Footer Call to action text position"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:453
+msgid "Center"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:460
+msgid "Footer background color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:466 
+#: splash/includes/customizer/registration.php:490
+msgid "Footer Bottom text color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:475
+msgid "Footer bottom"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:479
+msgid "Enable Footer Bottom"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:484
+msgid "Footer Bottom background color"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:496
+msgid "Left text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:498 
+#: splash/partials/footer/footer-bottom.php:2
+msgid "Copyright (c) 2016 Splash."
+msgstr ""
+
+#: splash/includes/customizer/registration.php:501
+msgid "Right text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:503 
+#: splash/partials/footer/footer-bottom.php:3
+msgid "Theme by Stylemix Themes."
+msgstr ""
+
+#: splash/includes/customizer/registration.php:506
+msgid "Socials text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:508 
+#: splash/partials/footer/footer-bottom.php:6
+msgid "Follow Us:"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:511 
+#: splash/includes/customizer/registration.php:858
+msgid "Socials"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:519
+msgid "Additional Scripts"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:526
+msgid ""
+"Enter in any custom script to include in your site's footer. Be sure to use "
+"double quotes for strings."
+msgstr ""
+
+#: splash/includes/customizer/registration.php:537
+msgid "Choose Shop Sidebar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:542 
+#: splash/includes/customizer/registration.php:846
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:555
+msgid "Without sidebar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:556
+msgid "Primary sidebar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:569 
+#: splash/includes/customizer/registration.php:714
+msgid "Blog"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:573 
+#: splash/includes/customizer/registration.php:718
+msgid "View type"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:576 
+#: splash/includes/customizer/registration.php:721
+msgid "Grid"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:577 
+#: splash/includes/customizer/registration.php:722
+msgid "List"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:582 
+#: splash/includes/customizer/registration.php:727
+msgid "Choose archive sidebar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:588 
+#: splash/includes/customizer/registration.php:733
+msgid "Choose default sidebar for single blog post"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:594 
+#: splash/includes/customizer/registration.php:616 
+#: splash/includes/customizer/registration.php:739
+msgid "Sidebar position"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:606
+msgid "Donations"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:610
+msgid "Choose sidebar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:628
+msgid "Raised money text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:633
+msgid "Donors text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:638
+msgid "Goal text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:643
+msgid "Donation Currency"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:651
+msgid "Paypal Currency"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:653
+msgid "USD"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:654
+msgid "Ex.: USD"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:657
+msgid "Paypal Email"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:662
+msgid "Paypal mode"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:665
+msgid "Sandbox"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:666
+msgid "Live"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:674
+msgid "Admin E-mail subject"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:676
+msgid "New Donation for [donation]"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:679
+msgid "Admin E-mail Message"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:681
+msgid ""
+"New payment for [donation]. Donor Info: Name:[name]; Phone:[phone]; E-mail:"
+"[email]; Amount:[amount]"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:684
+msgid "User E-mail subject"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:686
+msgid "Confirmation of donation for [donation]"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:689
+msgid "User E-mail text"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:691
+msgid "Dear [name]. Thank you for your donation."
+msgstr ""
+
+#: splash/includes/customizer/registration.php:697
+msgid "Pages"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:701
+msgid "Show page title"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:706
+msgid "Show page breadcrumbs"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:755
+msgid "Choose media sidebar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:761
+msgid "Media Sidebar position"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:778
+msgid "Event list view"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:781 
+#: splash/includes/customizer/registration.php:791
+msgid "Theme"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:782 
+#: splash/includes/customizer/registration.php:792
+msgid "Sportspress"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:785 
+#: splash/includes/customizer/registration.php:795
+msgid ""
+"You can choose sportspress view, if you want to enable default plugin "
+"settings"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:788
+msgid "Event block view"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:801
+msgid "Single player"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:806
+msgid "Hide player title"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:811
+msgid "Choose season"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:814
+msgid "Statistics will be shown for this season"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:818
+msgid "Choose league"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:821
+msgid "Statistics will be shown for this league"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:825
+msgid "Show statistic"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:828
+msgid "This Statistic will be shown on single player page"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:840
+msgid "Choose shop sidebar"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:862
+msgid "Socials Links"
+msgstr ""
+
+#: splash/includes/customizer/registration.php:870
+msgid "CSS"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr ""
+
+#: splash/includes/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:399 
+#: splash/includes/tgm/tgm-plugin-activation.php:3026
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:825 
+#: splash/includes/tgm/tgm-plugin-activation.php:3435
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:932 
+#: splash/includes/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2164
+msgid "Required"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2167
+msgid "Recommended"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2183
+msgid "WordPress Repository"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2186
+msgid "External Source"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2206
+msgid "Not Installed"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2210
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2212
+msgid "Active"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2218
+msgid "Required Update not Available"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2221
+msgid "Requires Update"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2224
+msgid "Update recommended"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2376
+msgid "Installed version:"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2384
+msgid "Minimum required version:"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2396
+msgid "Available version:"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2419
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2433
+msgid "Plugin"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2434
+msgid "Source"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2435
+msgid "Type"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2439
+msgid "Version"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2440
+msgid "Status"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2567
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2600
+msgid "Install"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2606
+msgid "Update"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2609
+msgid "Activate"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2640
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2642
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2678
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2680
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2785
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:2811
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3025
+msgid "Plugin activation failed."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3359
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3361
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3362
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3366
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3367
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3367 
+#: splash/includes/tgm/tgm-plugin-activation.php:3373
+msgid "Show Details"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3367 
+#: splash/includes/tgm/tgm-plugin-activation.php:3373
+msgid "Hide Details"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3368
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3369
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3372
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3373
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3374
+msgid "All installations have been completed."
+msgstr ""
+
+#: splash/includes/tgm/tgm-plugin-activation.php:3375
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: splash/includes/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: splash/includes/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: splash/includes/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: splash/includes/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:71
+msgid "Contact"
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:92 
+#: splash/includes/widgets/recent_posts.php:90
+msgid "Title:"
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:96
+msgid "Address:"
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:100
+msgid "Phone:"
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:104
+msgid "Fax:"
+msgstr ""
+
+#: splash/includes/widgets/contacts.php:108
+msgid "E-mail:"
+msgstr ""
+
+#: splash/includes/widgets/recent_posts.php:11
+msgid "STM Recent posts"
+msgstr ""
+
+#: splash/includes/widgets/recent_posts.php:12
+msgid "Theme recent posts widget"
+msgstr ""
+
+#: splash/includes/widgets/recent_posts.php:79
+msgid "Recent posts"
+msgstr ""
+
+#: splash/includes/widgets/recent_posts.php:94
+msgid "Output number:"
+msgstr ""
+
+#: splash/partials/global/donation-content.php:53
+msgid "Donate now"
+msgstr ""
+
+#: splash/partials/global/frontend_customizer.php:11
+msgid "Nav Mode"
+msgstr ""
+
+#: splash/partials/global/frontend_customizer.php:15
+msgid "Static"
+msgstr ""
+
+#: splash/partials/global/frontend_customizer.php:17
+msgid "Sticky"
+msgstr ""
+
+#: splash/partials/global/frontend_customizer.php:21
+msgid "Layout"
+msgstr ""
+
+#: splash/partials/global/frontend_customizer.php:25
+msgid "Boxed"
+msgstr ""
+
+#: splash/partials/global/frontend_customizer.php:27
+msgid "Wide"
+msgstr ""
+
+#: splash/partials/global/frontend_customizer.php:46
+msgid "Color Skin"
+msgstr ""
+
+#: splash/partials/global/media-archive.php:123 
+#: splash/partials/global/sportspress/player-media.php:108 
+#: splash/vc_templates/stm_media_tabs.php:113
+msgid "Audio"
+msgstr ""
+
+#: splash/partials/global/media-archive.php:130 
+#: splash/partials/global/sportspress/player-media.php:115 
+#: splash/vc_templates/stm_media_tabs.php:120
+msgid "Video"
+msgstr ""
+
+#: splash/partials/global/media-archive.php:159 
+#: splash/partials/global/media-archive.php:183 
+#: splash/partials/global/media-archive.php:207 
+#: splash/partials/global/media-archive.php:231 
+#: splash/partials/global/sportspress/player-media.php:144 
+#: splash/partials/global/sportspress/player-media.php:168 
+#: splash/partials/global/sportspress/player-media.php:192 
+#: splash/partials/global/sportspress/player-media.php:216
+msgid "Show more"
+msgstr ""
+
+#: splash/partials/global/media-archive.php:256 
+#: splash/vc_templates/stm_media_tabs.php:187
+msgid "No Media found"
+msgstr ""
+
+#: splash/partials/global/post-content.php:78
+msgid "Share"
+msgstr ""
+
+#: splash/partials/global/post-content.php:89
+msgid "About the Author:"
+msgstr ""
+
+#: splash/partials/global/modals/donation.php:9
+msgid "You are donating to:"
+msgstr ""
+
+#: splash/partials/global/modals/donation.php:17
+msgid "Name *"
+msgstr ""
+
+#: splash/partials/global/modals/donation.php:21
+msgid "Phone *"
+msgstr ""
+
+#: splash/partials/global/modals/donation.php:27
+msgid "E-mail *"
+msgstr ""
+
+#: splash/partials/global/modals/donation.php:33
+msgid "Amount(USD) *"
+msgstr ""
+
+#: splash/partials/global/modals/donation.php:39
+msgid "Message *"
+msgstr ""
+
+#: splash/partials/global/modals/donation.php:43
+msgid "Donate"
+msgstr ""
+
+#: splash/partials/global/sportspress/player-media.php:89
+msgid "Player Media"
+msgstr ""
+
+#: splash/partials/global/sportspress/player-related.php:22
+msgid "Related Players"
+msgstr ""
+
+#: splash/partials/header/header-default.php:47 
+#: splash/partials/header/header-default.php:55 
+#: splash/partials/header/header-default.php:93 
+#: splash/partials/header/header-default.php:101 
+#: splash/sportspress/event-list.php:103
+msgid "Home"
+msgstr ""
+
+#: splash/partials/header/top-bar-cart.php:12
+msgid "Watch shop items"
+msgstr ""
+
+#: splash/partials/header/top-bar-cart.php:14
+msgid "Cart"
+msgstr ""
+
+#: splash/partials/loop/content-grid.php:10 
+#: splash/partials/loop/content-grid.php:15 
+#: splash/partials/loop/content-list.php:10
+msgid "Sticky Post"
+msgstr ""
+
+#: splash/partials/loop/donation-content.php:27
+msgid "Completed"
+msgstr ""
+
+#: splash/partials/loop/donation-content.php:35
+msgid "Donated"
+msgstr ""
+
+#: splash/partials/loop/donation-content.php:48
+msgid "Learn More"
+msgstr ""
+
+#: splash/partials/loop/product-carousel.php:22
+msgid "Add to cart"
+msgstr ""
+
+#: splash/sportspress/event-blocks.php:148 
+#: splash/sportspress/event-list.php:392
+msgid "View all events"
+msgstr ""
+
+#: splash/sportspress/event-list.php:106 splash/sportspress/event-list.php:143
+msgid "Time/Results"
+msgstr ""
+
+#: splash/sportspress/event-list.php:108 splash/sportspress/event-list.php:131 
+#: splash/sportspress/event-list.php:139
+msgid "Results"
+msgstr ""
+
+#: splash/sportspress/event-list.php:111
+msgid "Away"
+msgstr ""
+
+#: splash/sportspress/event-list.php:114 splash/sportspress/event-list.php:129 
+#: splash/sportspress/event-list.php:135
+msgid "Time"
+msgstr ""
+
+#: splash/sportspress/event-list.php:121
+msgid "Teams"
+msgstr ""
+
+#: splash/sportspress/event-list.php:123
+msgid "Event"
+msgstr ""
+
+#: splash/sportspress/event-list.php:148
+msgid "Competition"
+msgstr ""
+
+#: splash/sportspress/event-list.php:151 
+#: splash/sportspress/player-details-right.php:44
+msgid "Season"
+msgstr ""
+
+#: splash/sportspress/event-list.php:154 splash/sportspress/event-venue.php:37
+msgid "Venue"
+msgstr ""
+
+#: splash/sportspress/event-list.php:157
+msgid "Article"
+msgstr ""
+
+#: splash/sportspress/event-list.php:372
+msgid "Recap"
+msgstr ""
+
+#: splash/sportspress/event-list.php:374
+msgid "Preview"
+msgstr ""
+
+#: splash/sportspress/event-logos.php:88 
+#: splash/vc_templates/stm_next_match.php:117
+msgid "vs"
+msgstr ""
+
+#: splash/sportspress/player-details.php:50 
+#: splash/sportspress/staff-details.php:47 splash/sportspress/team-staff.php:56
+msgid "Nationality"
+msgstr ""
+
+#: splash/sportspress/player-details.php:58
+msgid "Position"
+msgstr ""
+
+#: splash/sportspress/player-details.php:70 
+#: splash/sportspress/staff-details.php:57
+msgid "Current Team"
+msgstr ""
+
+#: splash/sportspress/player-details.php:80 
+#: splash/sportspress/staff-details.php:67
+msgid "Past Teams"
+msgstr ""
+
+#: splash/sportspress/player-details.php:88
+msgid "Competitions"
+msgstr ""
+
+#: splash/sportspress/player-details.php:96
+msgid "Seasons"
+msgstr ""
+
+#: splash/sportspress/player-details.php:113
+msgid "N:"
+msgstr ""
+
+#: splash/sportspress/stm-event-block.php:145 
+#: splash/sportspress/stm-event-block.php:175 
+#: splash/vc_templates/stm_latest_results.php:82 
+#: splash/vc_templates/stm_latest_results.php:100
+msgid "win"
+msgstr ""
+
+#: splash/sportspress/stm-event-block.php:147 
+#: splash/sportspress/stm-event-block.php:177
+msgid "lose"
+msgstr ""
+
+#: splash/sportspress/stm-event-block.php:150 
+#: splash/sportspress/stm-event-block.php:154 
+#: splash/sportspress/stm-event-block.php:180 
+#: splash/sportspress/stm-event-block.php:184
+msgid "- -"
+msgstr ""
+
+#: splash/sportspress/stm-event-block.php:161 
+#: splash/sportspress/stm-event-block.php:168
+msgid "- VS -"
+msgstr ""
+
+#: splash/sportspress/stm-event-list.php:69
+msgid "- vs -"
+msgstr ""
+
+#: splash/sportspress/stm-event-list.php:107
+msgid "read more"
+msgstr ""
+
+#: splash/sportspress/team-staff.php:20
+msgid "Coaching Staff"
+msgstr ""
+
+#: splash/vc_templates/stm_images_grid.php:69
+msgid "Load more"
+msgstr ""
+
+#: splash/vc_templates/stm_league_table.php:40
+msgid "View all"
+msgstr ""
+
+#: splash/vc_templates/stm_league_table.php:61
+msgid "N."
+msgstr ""
+
+#: splash/vc_templates/stm_news_tabs.php:71
+msgid "No news in this category"
+msgstr ""
+
+#: splash/vc_templates/stm_player_statistic.php:172
+msgid "View profile"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:40
+msgid "Add review"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:63
+msgid "There are no reviews yet."
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:76
+msgid "Add a review"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:92
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:96
+msgid "Your Rating"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:98
+msgid "Perfect"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:99
+msgid "Good"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:100
+msgid "Average"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:102
+msgid "Very Poor"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:106
+msgid "Your Review"
+msgstr ""
+
+#: splash/woocommerce/single-product-reviews.php:113
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: splash/woocommerce/cart/cart-shipping.php:26
+msgid "Calculate Shipping"
+msgstr ""
+
+#: splash/woocommerce/cart/cart-totals.php:41 
+#: splash/woocommerce/cart/cart-totals.php:42 
+#: splash/woocommerce/cart/cart-totals.php:64
+msgid "Shipping"
+msgstr ""
+
+#: splash/woocommerce/cart/cart-totals.php:50
+msgid "Cart Totals"
+msgstr ""
+
+#: splash/woocommerce/cart/cart-totals.php:55 
+#: splash/woocommerce/cart/cart-totals.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: splash/woocommerce/cart/cart-totals.php:63
+msgid "Shipping:"
+msgstr ""
+
+#: splash/woocommerce/cart/cart-totals.php:86
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: splash/woocommerce/cart/cart-totals.php:107 
+#: splash/woocommerce/cart/cart-totals.php:108 
+#: splash/woocommerce/cart/cart.php:37 splash/woocommerce/cart/cart.php:107
+msgid "Total"
+msgstr ""
+
+#: splash/woocommerce/cart/cart.php:33 splash/woocommerce/cart/cart.php:66
+msgid "Product"
+msgstr ""
+
+#: splash/woocommerce/cart/cart.php:35 splash/woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: splash/woocommerce/cart/cart.php:36 splash/woocommerce/cart/cart.php:90
+msgid "Quantity"
+msgstr ""
+
+#: splash/woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: splash/woocommerce/cart/cart.php:118
+msgid "Remove this item"
+msgstr ""
+
+#: splash/woocommerce/cart/cart.php:137
+msgid "Coupon"
+msgstr ""
+
+#: splash/woocommerce/checkout/form-checkout.php:30
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: splash/woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: splash/woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr ""
+
+#: splash/woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr ""
+
+#: splash/woocommerce/checkout/form-shipping.php:40
+msgid "Shipping Adress"
+msgstr ""
+
+#: splash/woocommerce/checkout/form-shipping.php:42
+msgid "Ship to a different address?"
+msgstr ""
+
+#: splash/woocommerce/checkout/form-shipping.php:68 
+#: splash/woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional Information"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:36
+msgid "Login"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:43
+msgid "Username or email address"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:46 
+#: splash/woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:55
+msgid "Remember me"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:72
+msgid "Register"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:81
+msgid "Username"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-login.php:99
+msgid "Anti-spam"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-lost-password.php:30
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-lost-password.php:36
+msgid "Enter a new password below."
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-lost-password.php:39
+msgid "New password"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-lost-password.php:43
+msgid "Re-enter new password"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-lost-password.php:58
+msgid "Reset Password"
+msgstr ""
+
+#: splash/woocommerce/myaccount/form-lost-password.php:58
+msgid "Save"
+msgstr ""
+
+#: splash/woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: splash/woocommerce/single-product/related.php:56
+msgid "Related Products"
+msgstr ""
+
+#: splash/woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: splash/woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: splash/woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: splash/woocommerce/single-product/review.php:57
+msgid "verified owner"
+msgstr ""
+
+#: splash/woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: splash/woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: splash/woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
